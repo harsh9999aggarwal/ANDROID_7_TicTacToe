@@ -10,3 +10,9 @@
 <video width="320" height="200" controls preload> 
     <source src="Tic_Tac_toe_video.mp4"></source> 
 </video>
+
+<img src="img2.jpg" height="400" width ="200">
+                                           
+<img src="img3.jpg" height="400" width ="200">
+                                           
+<img src="img1.jpg" height="400" width ="200">                                         
